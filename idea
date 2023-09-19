@@ -55,3 +55,4 @@ public class LiquidityPoolRewardContract extends Contract {
         return deploy(LiquidityPoolRewardContract.class, web3j, credentials, gasProvider);
     }
 }
+first of all need to paid attention to nun-encrypted dev
