@@ -55,4 +55,4 @@ public class LiquidityPoolRewardContract extends Contract {
         return deploy(LiquidityPoolRewardContract.class, web3j, credentials, gasProvider);
     }
 }
-goin to create ez video and odd stats to sell dem and if money win i will pay all IA needed for 
+nothing happen from 3 day , i try IA creator 
