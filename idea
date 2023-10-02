@@ -55,4 +55,4 @@ public class LiquidityPoolRewardContract extends Contract {
         return deploy(LiquidityPoolRewardContract.class, web3j, credentials, gasProvider);
     }
 }
-try to find a new test 
+try to find a new test ; it's come around mi octobre
